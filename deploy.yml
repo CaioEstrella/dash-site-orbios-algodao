@@ -1,0 +1,31 @@
+name: Deploy Dash App
+
+on:
+  push:
+    branches:
+      - main  # ou "master", conforme seu repositório
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🔄 Checkout código
+        uses: actions/checkout@v3
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: ✅ Teste de execução
+        run: |
+          python -m py_compile app.py
+
+      # opcional: se você quiser fazer deploy em algum serviço, colocamos aqui
+      # ex: deploy para Heroku, Render, Railway etc.
