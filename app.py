@@ -91,7 +91,9 @@ def calcular_metricas(df_filtrado):
     Input('theme-store', 'data')
 )
 def alternar_tema_css(theme_data):
-    tema = theme_data['theme']
+    if theme_data is None:
+        return dbc.themes.BOOTSTRAP  # fallback padrão
+    tema = theme_data.get('theme', 'bootstrap')
     if tema == 'darkly':
         return dbc.themes.DARKLY
     return dbc.themes.BOOTSTRAP
