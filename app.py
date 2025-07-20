@@ -284,9 +284,12 @@ from dash import State
     prevent_initial_call=True
 )
 def toggle_theme_click(n_clicks, theme_data):
+    if theme_data is None:
+        theme_data = {'theme': 'darkly'}
     current = theme_data.get('theme', 'darkly')
     new_theme = 'bootstrap' if current == 'darkly' else 'darkly'
     return {'theme': new_theme}
+
 
 
 @callback(
