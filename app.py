@@ -294,7 +294,9 @@ def toggle_theme_click(n_clicks, theme_data):
     Input('theme-store', 'data')
 )
 def atualizar_botao_tema(theme_data):
-    return "☀️ Light Mode" if theme_data['theme'] == 'darkly' else "🌙 Dark Mode"
+    if theme_data is None:
+        return "🌙 Dark Mode"  # fallback
+    return "☀️ Light Mode" if theme_data.get('theme', 'bootstrap') == 'darkly' else "🌙 Dark Mode"
 
 
 # Callback principal para atualizar todas as visualizações
@@ -316,6 +318,8 @@ def atualizar_botao_tema(theme_data):
 )
 def update_dashboard(range_ano, regioes_selecionadas, estados_selecionados, 
                     ordenacao, theme_data):
+    if theme_data is None:
+        theme_data = {'theme': 'bootstrap'}
 
     # Filtrar dados
     df_filtrado = df[
