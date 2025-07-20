@@ -1,0 +1,77 @@
+/* ========== ESTILO UNIFICADO PARA DROPDOWNS (DARK E LIGHT) ========== */
+
+/* Contêiner principal do dropdown */
+.Select-control,
+.Select-menu-outer,
+.Select--single > .Select-control,
+.Select--multi > .Select-control {
+    background-color: #2b2b2b !important;
+    color: #ffffff !important;
+    border-color: #444 !important;
+    border-radius: 6px !important;
+}
+
+/* Menu suspenso */
+.Select-menu-outer {
+    background-color: #2b2b2b !important;
+    color: #ffffff !important;
+    border-color: #444 !important;
+    z-index: 1001 !important;
+}
+
+/* Opções dentro do menu */
+.Select-option {
+    background-color: #2b2b2b !important;
+    color: #ffffff !important;
+}
+
+.Select-option:hover {
+    background-color: #444 !important;
+    color: #ffffff !important;
+}
+
+/* Valor selecionado */
+.Select-value,
+.Select-value-label,
+.Select--single .Select-value {
+    color: #ffffff !important;
+}
+
+/* Input interno (busca em multi-dropdowns) */
+.Select-input > input {
+    color: #ffffff !important;
+}
+
+/* Placeholder unificado */
+.Select-placeholder,
+.Select--single .Select-placeholder,
+.Select--multi .Select-placeholder,
+.Select.has-value .Select-placeholder,
+.Select.is-focused .Select-placeholder {
+    color: #cccccc !important;
+}
+
+/* Ícone da seta (dropdown arrow) */
+.Select-arrow-zone,
+.Select-arrow {
+    color: #ffffff !important;
+}
+
+/* Tags em multi dropdown (como "× Sul") */
+.Select--multi .Select-value {
+    background-color: #444 !important;
+    border-color: #666 !important;
+    color: #ffffff !important;
+}
+
+.Select--multi .Select-value-icon {
+    color: #ffffff !important;
+}
+
+.Select--multi .Select-value-icon:hover {
+    background-color: #666 !important;
+}
+
+/* ========== REMOVE DIFERENCIAÇÃO ENTRE MODOS ========== */
+/* Nenhuma regra condicional por tema/light mode */
+

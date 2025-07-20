@@ -1,0 +1,476 @@
+ano,estado,sigla,regiao,producao
+2000,Mato Grosso,MT,Centro-Oeste,2802462
+2000,Bahia,BA,Nordeste,1319611
+2000,Goiás,GO,Centro-Oeste,667119
+2000,Mato Grosso do Sul,MS,Centro-Oeste,488866
+2000,Maranhão,MA,Nordeste,262321
+2000,Piauí,PI,Nordeste,194833
+2000,Ceará,CE,Nordeste,155281
+2000,Minas Gerais,MG,Sudeste,114783
+2000,São Paulo,SP,Sudeste,68628
+2000,Paraná,PR,Sul,57323
+2000,Tocantins,TO,Norte,37581
+2000,Pará,PA,Norte,28753
+2000,Alagoas,AL,Nordeste,20320
+2000,Paraíba,PB,Nordeste,12542
+2000,Rio Grande do Norte,RN,Nordeste,9265
+2000,Pernambuco,PE,Nordeste,7095
+2000,Sergipe,SE,Nordeste,4625
+2000,Rondônia,RO,Norte,2506
+2000,Distrito Federal,DF,Centro-Oeste,1496
+2001,Mato Grosso,MT,Centro-Oeste,2525934
+2001,Bahia,BA,Nordeste,1339619
+2001,Goiás,GO,Centro-Oeste,444318
+2001,Mato Grosso do Sul,MS,Centro-Oeste,404873
+2001,Maranhão,MA,Nordeste,254154
+2001,Piauí,PI,Nordeste,243350
+2001,Ceará,CE,Nordeste,139731
+2001,Minas Gerais,MG,Sudeste,85117
+2001,São Paulo,SP,Sudeste,80049
+2001,Paraná,PR,Sul,50407
+2001,Tocantins,TO,Norte,41559
+2001,Pará,PA,Norte,18379
+2001,Alagoas,AL,Nordeste,26588
+2001,Paraíba,PB,Nordeste,13265
+2001,Rio Grande do Norte,RN,Nordeste,9901
+2001,Pernambuco,PE,Nordeste,7048
+2001,Sergipe,SE,Nordeste,5313
+2001,Rondônia,RO,Norte,3007
+2001,Distrito Federal,DF,Centro-Oeste,1815
+2002,Mato Grosso,MT,Centro-Oeste,2864293
+2002,Bahia,BA,Nordeste,1191003
+2002,Goiás,GO,Centro-Oeste,601570
+2002,Mato Grosso do Sul,MS,Centro-Oeste,298874
+2002,Maranhão,MA,Nordeste,241909
+2002,Piauí,PI,Nordeste,162708
+2002,Ceará,CE,Nordeste,132853
+2002,Minas Gerais,MG,Sudeste,99549
+2002,São Paulo,SP,Sudeste,49368
+2002,Paraná,PR,Sul,47765
+2002,Tocantins,TO,Norte,33333
+2002,Pará,PA,Norte,29791
+2002,Alagoas,AL,Nordeste,16366
+2002,Paraíba,PB,Nordeste,15012
+2002,Rio Grande do Norte,RN,Nordeste,8144
+2002,Pernambuco,PE,Nordeste,5687
+2002,Sergipe,SE,Nordeste,4586
+2002,Rondônia,RO,Norte,2413
+2002,Distrito Federal,DF,Centro-Oeste,1504
+2003,Mato Grosso,MT,Centro-Oeste,2791649
+2003,Bahia,BA,Nordeste,1077103
+2003,Goiás,GO,Centro-Oeste,455514
+2003,Mato Grosso do Sul,MS,Centro-Oeste,428015
+2003,Maranhão,MA,Nordeste,244751
+2003,Piauí,PI,Nordeste,208334
+2003,Ceará,CE,Nordeste,119100
+2003,Minas Gerais,MG,Sudeste,109350
+2003,São Paulo,SP,Sudeste,89768
+2003,Paraná,PR,Sul,54040
+2003,Tocantins,TO,Norte,43095
+2003,Pará,PA,Norte,25034
+2003,Alagoas,AL,Nordeste,20220
+2003,Paraíba,PB,Nordeste,15421
+2003,Rio Grande do Norte,RN,Nordeste,10060
+2003,Pernambuco,PE,Nordeste,7278
+2003,Sergipe,SE,Nordeste,3873
+2003,Rondônia,RO,Norte,3261
+2003,Distrito Federal,DF,Centro-Oeste,1221
+2004,Mato Grosso,MT,Centro-Oeste,1832440
+2004,Bahia,BA,Nordeste,1292100
+2004,Goiás,GO,Centro-Oeste,533395
+2004,Mato Grosso do Sul,MS,Centro-Oeste,364940
+2004,Maranhão,MA,Nordeste,185594
+2004,Piauí,PI,Nordeste,154433
+2004,Ceará,CE,Nordeste,134266
+2004,Minas Gerais,MG,Sudeste,96727
+2004,São Paulo,SP,Sudeste,68391
+2004,Paraná,PR,Sul,55181
+2004,Tocantins,TO,Norte,42882
+2004,Pará,PA,Norte,23126
+2004,Alagoas,AL,Nordeste,16411
+2004,Paraíba,PB,Nordeste,14030
+2004,Rio Grande do Norte,RN,Nordeste,8829
+2004,Pernambuco,PE,Nordeste,6518
+2004,Sergipe,SE,Nordeste,5213
+2004,Rondônia,RO,Norte,3274
+2004,Distrito Federal,DF,Centro-Oeste,1367
+2005,Mato Grosso,MT,Centro-Oeste,2233051
+2005,Bahia,BA,Nordeste,1105729
+2005,Goiás,GO,Centro-Oeste,712304
+2005,Mato Grosso do Sul,MS,Centro-Oeste,377930
+2005,Maranhão,MA,Nordeste,274207
+2005,Piauí,PI,Nordeste,196897
+2005,Ceará,CE,Nordeste,127199
+2005,Minas Gerais,MG,Sudeste,92441
+2005,São Paulo,SP,Sudeste,74535
+2005,Paraná,PR,Sul,49464
+2005,Tocantins,TO,Norte,27605
+2005,Pará,PA,Norte,16537
+2005,Alagoas,AL,Nordeste,16303
+2005,Paraíba,PB,Nordeste,8267
+2005,Rio Grande do Norte,RN,Nordeste,6863
+2005,Pernambuco,PE,Nordeste,6800
+2005,Sergipe,SE,Nordeste,4432
+2005,Rondônia,RO,Norte,3580
+2005,Distrito Federal,DF,Centro-Oeste,2045
+2006,Mato Grosso,MT,Centro-Oeste,3556670
+2006,Bahia,BA,Nordeste,1374247
+2006,Goiás,GO,Centro-Oeste,602792
+2006,Mato Grosso do Sul,MS,Centro-Oeste,482996
+2006,Maranhão,MA,Nordeste,452319
+2006,Piauí,PI,Nordeste,200063
+2006,Ceará,CE,Nordeste,134671
+2006,Minas Gerais,MG,Sudeste,127321
+2006,São Paulo,SP,Sudeste,74291
+2006,Paraná,PR,Sul,48969
+2006,Tocantins,TO,Norte,55204
+2006,Pará,PA,Norte,27836
+2006,Alagoas,AL,Nordeste,23067
+2006,Paraíba,PB,Nordeste,13680
+2006,Rio Grande do Norte,RN,Nordeste,10715
+2006,Pernambuco,PE,Nordeste,11683
+2006,Sergipe,SE,Nordeste,5183
+2006,Rondônia,RO,Norte,3904
+2006,Distrito Federal,DF,Centro-Oeste,1970
+2007,Mato Grosso,MT,Centro-Oeste,3556285
+2007,Bahia,BA,Nordeste,1907832
+2007,Goiás,GO,Centro-Oeste,641023
+2007,Mato Grosso do Sul,MS,Centro-Oeste,485480
+2007,Maranhão,MA,Nordeste,360220
+2007,Piauí,PI,Nordeste,234652
+2007,Ceará,CE,Nordeste,164155
+2007,Minas Gerais,MG,Sudeste,110728
+2007,São Paulo,SP,Sudeste,65685
+2007,Paraná,PR,Sul,74777
+2007,Tocantins,TO,Norte,49865
+2007,Pará,PA,Norte,41633
+2007,Alagoas,AL,Nordeste,30347
+2007,Paraíba,PB,Nordeste,22831
+2007,Rio Grande do Norte,RN,Nordeste,13694
+2007,Pernambuco,PE,Nordeste,9263
+2007,Sergipe,SE,Nordeste,4762
+2007,Rondônia,RO,Norte,3493
+2007,Distrito Federal,DF,Centro-Oeste,2779
+2008,Mato Grosso,MT,Centro-Oeste,3231981
+2008,Bahia,BA,Nordeste,1692697
+2008,Goiás,GO,Centro-Oeste,648848
+2008,Mato Grosso do Sul,MS,Centro-Oeste,461597
+2008,Maranhão,MA,Nordeste,351328
+2008,Piauí,PI,Nordeste,194901
+2008,Ceará,CE,Nordeste,142237
+2008,Minas Gerais,MG,Sudeste,76526
+2008,São Paulo,SP,Sudeste,63073
+2008,Paraná,PR,Sul,67883
+2008,Tocantins,TO,Norte,49301
+2008,Pará,PA,Norte,35768
+2008,Alagoas,AL,Nordeste,29322
+2008,Paraíba,PB,Nordeste,25043
+2008,Rio Grande do Norte,RN,Nordeste,10405
+2008,Pernambuco,PE,Nordeste,7220
+2008,Sergipe,SE,Nordeste,7027
+2008,Rondônia,RO,Norte,2930
+2008,Distrito Federal,DF,Centro-Oeste,2908
+2009,Mato Grosso,MT,Centro-Oeste,3446212
+2009,Bahia,BA,Nordeste,1418676
+2009,Goiás,GO,Centro-Oeste,780273
+2009,Mato Grosso do Sul,MS,Centro-Oeste,453726
+2009,Maranhão,MA,Nordeste,426539
+2009,Piauí,PI,Nordeste,181772
+2009,Ceará,CE,Nordeste,180056
+2009,Minas Gerais,MG,Sudeste,108011
+2009,São Paulo,SP,Sudeste,117227
+2009,Paraná,PR,Sul,79058
+2009,Tocantins,TO,Norte,37195
+2009,Pará,PA,Norte,39869
+2009,Alagoas,AL,Nordeste,21387
+2009,Paraíba,PB,Nordeste,19768
+2009,Rio Grande do Norte,RN,Nordeste,13367
+2009,Pernambuco,PE,Nordeste,14098
+2009,Sergipe,SE,Nordeste,6597
+2009,Rondônia,RO,Norte,3947
+2009,Distrito Federal,DF,Centro-Oeste,2219
+2010,Mato Grosso,MT,Centro-Oeste,2354780
+2010,Bahia,BA,Nordeste,1790094
+2010,Goiás,GO,Centro-Oeste,863590
+2010,Mato Grosso do Sul,MS,Centro-Oeste,473295
+2010,Maranhão,MA,Nordeste,320080
+2010,Piauí,PI,Nordeste,257996
+2010,Ceará,CE,Nordeste,253994
+2010,Minas Gerais,MG,Sudeste,154174
+2010,São Paulo,SP,Sudeste,105539
+2010,Paraná,PR,Sul,80888
+2010,Tocantins,TO,Norte,68063
+2010,Pará,PA,Norte,46527
+2010,Alagoas,AL,Nordeste,26553
+2010,Paraíba,PB,Nordeste,19583
+2010,Rio Grande do Norte,RN,Nordeste,11937
+2010,Pernambuco,PE,Nordeste,13146
+2010,Sergipe,SE,Nordeste,6751
+2010,Rondônia,RO,Norte,4258
+2010,Distrito Federal,DF,Centro-Oeste,3292
+2011,Mato Grosso,MT,Centro-Oeste,3708698
+2011,Bahia,BA,Nordeste,1501820
+2011,Goiás,GO,Centro-Oeste,790152
+2011,Mato Grosso do Sul,MS,Centro-Oeste,530774
+2011,Maranhão,MA,Nordeste,494564
+2011,Piauí,PI,Nordeste,293862
+2011,Ceará,CE,Nordeste,156123
+2011,Minas Gerais,MG,Sudeste,119011
+2011,São Paulo,SP,Sudeste,123067
+2011,Paraná,PR,Sul,92265
+2011,Tocantins,TO,Norte,49914
+2011,Pará,PA,Norte,43026
+2011,Alagoas,AL,Nordeste,22923
+2011,Paraíba,PB,Nordeste,23210
+2011,Rio Grande do Norte,RN,Nordeste,16113
+2011,Pernambuco,PE,Nordeste,11099
+2011,Sergipe,SE,Nordeste,6604
+2011,Rondônia,RO,Norte,3440
+2011,Distrito Federal,DF,Centro-Oeste,2543
+2012,Mato Grosso,MT,Centro-Oeste,3568803
+2012,Bahia,BA,Nordeste,1336065
+2012,Goiás,GO,Centro-Oeste,768322
+2012,Mato Grosso do Sul,MS,Centro-Oeste,516610
+2012,Maranhão,MA,Nordeste,370894
+2012,Piauí,PI,Nordeste,271253
+2012,Ceará,CE,Nordeste,218255
+2012,Minas Gerais,MG,Sudeste,100227
+2012,São Paulo,SP,Sudeste,113300
+2012,Paraná,PR,Sul,69364
+2012,Tocantins,TO,Norte,62506
+2012,Pará,PA,Norte,53017
+2012,Alagoas,AL,Nordeste,32519
+2012,Paraíba,PB,Nordeste,21601
+2012,Rio Grande do Norte,RN,Nordeste,13148
+2012,Pernambuco,PE,Nordeste,10486
+2012,Sergipe,SE,Nordeste,7433
+2012,Rondônia,RO,Norte,4617
+2012,Distrito Federal,DF,Centro-Oeste,2594
+2013,Mato Grosso,MT,Centro-Oeste,3473284
+2013,Bahia,BA,Nordeste,1752869
+2013,Goiás,GO,Centro-Oeste,935767
+2013,Mato Grosso do Sul,MS,Centro-Oeste,516306
+2013,Maranhão,MA,Nordeste,410696
+2013,Piauí,PI,Nordeste,283628
+2013,Ceará,CE,Nordeste,199001
+2013,Minas Gerais,MG,Sudeste,138407
+2013,São Paulo,SP,Sudeste,118067
+2013,Paraná,PR,Sul,108895
+2013,Tocantins,TO,Norte,64193
+2013,Pará,PA,Norte,55783
+2013,Alagoas,AL,Nordeste,29693
+2013,Paraíba,PB,Nordeste,23148
+2013,Rio Grande do Norte,RN,Nordeste,12205
+2013,Pernambuco,PE,Nordeste,12112
+2013,Sergipe,SE,Nordeste,7934
+2013,Rondônia,RO,Norte,4788
+2013,Distrito Federal,DF,Centro-Oeste,2363
+2014,Mato Grosso,MT,Centro-Oeste,3897325
+2014,Bahia,BA,Nordeste,1673344
+2014,Goiás,GO,Centro-Oeste,950720
+2014,Mato Grosso do Sul,MS,Centro-Oeste,622449
+2014,Maranhão,MA,Nordeste,448478
+2014,Piauí,PI,Nordeste,255223
+2014,Ceará,CE,Nordeste,220763
+2014,Minas Gerais,MG,Sudeste,132161
+2014,São Paulo,SP,Sudeste,114772
+2014,Paraná,PR,Sul,97195
+2014,Tocantins,TO,Norte,53541
+2014,Pará,PA,Norte,34456
+2014,Alagoas,AL,Nordeste,28369
+2014,Paraíba,PB,Nordeste,21535
+2014,Rio Grande do Norte,RN,Nordeste,13783
+2014,Pernambuco,PE,Nordeste,9858
+2014,Sergipe,SE,Nordeste,7617
+2014,Rondônia,RO,Norte,4983
+2014,Distrito Federal,DF,Centro-Oeste,3323
+2015,Mato Grosso,MT,Centro-Oeste,3541459
+2015,Bahia,BA,Nordeste,1514758
+2015,Goiás,GO,Centro-Oeste,1137660
+2015,Mato Grosso do Sul,MS,Centro-Oeste,552304
+2015,Maranhão,MA,Nordeste,360731
+2015,Piauí,PI,Nordeste,259357
+2015,Ceará,CE,Nordeste,232572
+2015,Minas Gerais,MG,Sudeste,146826
+2015,São Paulo,SP,Sudeste,112887
+2015,Paraná,PR,Sul,90003
+2015,Tocantins,TO,Norte,54558
+2015,Pará,PA,Norte,39940
+2015,Alagoas,AL,Nordeste,33116
+2015,Paraíba,PB,Nordeste,26415
+2015,Rio Grande do Norte,RN,Nordeste,16232
+2015,Pernambuco,PE,Nordeste,12298
+2015,Sergipe,SE,Nordeste,7397
+2015,Rondônia,RO,Norte,4542
+2015,Distrito Federal,DF,Centro-Oeste,2137
+2016,Mato Grosso,MT,Centro-Oeste,3304718
+2016,Bahia,BA,Nordeste,1841758
+2016,Goiás,GO,Centro-Oeste,837072
+2016,Mato Grosso do Sul,MS,Centro-Oeste,615158
+2016,Maranhão,MA,Nordeste,438292
+2016,Piauí,PI,Nordeste,264985
+2016,Ceará,CE,Nordeste,216996
+2016,Minas Gerais,MG,Sudeste,157873
+2016,São Paulo,SP,Sudeste,150458
+2016,Paraná,PR,Sul,63420
+2016,Tocantins,TO,Norte,78632
+2016,Pará,PA,Norte,38821
+2016,Alagoas,AL,Nordeste,32257
+2016,Paraíba,PB,Nordeste,18908
+2016,Rio Grande do Norte,RN,Nordeste,16026
+2016,Pernambuco,PE,Nordeste,11606
+2016,Sergipe,SE,Nordeste,6791
+2016,Rondônia,RO,Norte,4821
+2016,Distrito Federal,DF,Centro-Oeste,2284
+2017,Mato Grosso,MT,Centro-Oeste,2810597
+2017,Bahia,BA,Nordeste,1940175
+2017,Goiás,GO,Centro-Oeste,947580
+2017,Mato Grosso do Sul,MS,Centro-Oeste,501353
+2017,Maranhão,MA,Nordeste,427143
+2017,Piauí,PI,Nordeste,275544
+2017,Ceará,CE,Nordeste,233178
+2017,Minas Gerais,MG,Sudeste,179468
+2017,São Paulo,SP,Sudeste,133183
+2017,Paraná,PR,Sul,76739
+2017,Tocantins,TO,Norte,55066
+2017,Pará,PA,Norte,46502
+2017,Alagoas,AL,Nordeste,28431
+2017,Paraíba,PB,Nordeste,24217
+2017,Rio Grande do Norte,RN,Nordeste,15336
+2017,Pernambuco,PE,Nordeste,8677
+2017,Sergipe,SE,Nordeste,7746
+2017,Rondônia,RO,Norte,5794
+2017,Distrito Federal,DF,Centro-Oeste,3240
+2018,Mato Grosso,MT,Centro-Oeste,4994630
+2018,Bahia,BA,Nordeste,1970050
+2018,Goiás,GO,Centro-Oeste,814027
+2018,Mato Grosso do Sul,MS,Centro-Oeste,459917
+2018,Maranhão,MA,Nordeste,570889
+2018,Piauí,PI,Nordeste,329737
+2018,Ceará,CE,Nordeste,208454
+2018,Minas Gerais,MG,Sudeste,162156
+2018,São Paulo,SP,Sudeste,138510
+2018,Paraná,PR,Sul,88398
+2018,Tocantins,TO,Norte,54208
+2018,Pará,PA,Norte,58023
+2018,Alagoas,AL,Nordeste,27309
+2018,Paraíba,PB,Nordeste,29012
+2018,Rio Grande do Norte,RN,Nordeste,17993
+2018,Pernambuco,PE,Nordeste,12547
+2018,Sergipe,SE,Nordeste,6478
+2018,Rondônia,RO,Norte,5563
+2018,Distrito Federal,DF,Centro-Oeste,3142
+2019,Mato Grosso,MT,Centro-Oeste,3465877
+2019,Bahia,BA,Nordeste,2281293
+2019,Goiás,GO,Centro-Oeste,1066643
+2019,Mato Grosso do Sul,MS,Centro-Oeste,682636
+2019,Maranhão,MA,Nordeste,430138
+2019,Piauí,PI,Nordeste,261852
+2019,Ceará,CE,Nordeste,276371
+2019,Minas Gerais,MG,Sudeste,143570
+2019,São Paulo,SP,Sudeste,145099
+2019,Paraná,PR,Sul,118296
+2019,Tocantins,TO,Norte,55830
+2019,Pará,PA,Norte,56405
+2019,Alagoas,AL,Nordeste,26542
+2019,Paraíba,PB,Nordeste,25611
+2019,Rio Grande do Norte,RN,Nordeste,19372
+2019,Pernambuco,PE,Nordeste,10727
+2019,Sergipe,SE,Nordeste,9446
+2019,Rondônia,RO,Norte,4101
+2019,Distrito Federal,DF,Centro-Oeste,3659
+2020,Mato Grosso,MT,Centro-Oeste,4191655
+2020,Bahia,BA,Nordeste,2238919
+2020,Goiás,GO,Centro-Oeste,1031893
+2020,Mato Grosso do Sul,MS,Centro-Oeste,707087
+2020,Maranhão,MA,Nordeste,555342
+2020,Piauí,PI,Nordeste,286881
+2020,Ceará,CE,Nordeste,238196
+2020,Minas Gerais,MG,Sudeste,149204
+2020,São Paulo,SP,Sudeste,124023
+2020,Paraná,PR,Sul,98953
+2020,Tocantins,TO,Norte,61331
+2020,Pará,PA,Norte,52264
+2020,Alagoas,AL,Nordeste,25687
+2020,Paraíba,PB,Nordeste,24229
+2020,Rio Grande do Norte,RN,Nordeste,16200
+2020,Pernambuco,PE,Nordeste,13645
+2020,Sergipe,SE,Nordeste,7804
+2020,Rondônia,RO,Norte,4291
+2020,Distrito Federal,DF,Centro-Oeste,3291
+2021,Mato Grosso,MT,Centro-Oeste,2843668
+2021,Bahia,BA,Nordeste,2143275
+2021,Goiás,GO,Centro-Oeste,1006628
+2021,Mato Grosso do Sul,MS,Centro-Oeste,633799
+2021,Maranhão,MA,Nordeste,643352
+2021,Piauí,PI,Nordeste,319153
+2021,Ceará,CE,Nordeste,233422
+2021,Minas Gerais,MG,Sudeste,145988
+2021,São Paulo,SP,Sudeste,102666
+2021,Paraná,PR,Sul,84232
+2021,Tocantins,TO,Norte,70248
+2021,Pará,PA,Norte,55466
+2021,Alagoas,AL,Nordeste,31711
+2021,Paraíba,PB,Nordeste,20937
+2021,Rio Grande do Norte,RN,Nordeste,15390
+2021,Pernambuco,PE,Nordeste,14603
+2021,Sergipe,SE,Nordeste,6711
+2021,Rondônia,RO,Norte,5823
+2021,Distrito Federal,DF,Centro-Oeste,3136
+2022,Mato Grosso,MT,Centro-Oeste,4496876
+2022,Bahia,BA,Nordeste,1995832
+2022,Goiás,GO,Centro-Oeste,1011124
+2022,Mato Grosso do Sul,MS,Centro-Oeste,609981
+2022,Maranhão,MA,Nordeste,554494
+2022,Piauí,PI,Nordeste,224873
+2022,Ceará,CE,Nordeste,275273
+2022,Minas Gerais,MG,Sudeste,156927
+2022,São Paulo,SP,Sudeste,143329
+2022,Paraná,PR,Sul,58377
+2022,Tocantins,TO,Norte,81538
+2022,Pará,PA,Norte,52202
+2022,Alagoas,AL,Nordeste,28181
+2022,Paraíba,PB,Nordeste,24708
+2022,Rio Grande do Norte,RN,Nordeste,17504
+2022,Pernambuco,PE,Nordeste,10213
+2022,Sergipe,SE,Nordeste,7972
+2022,Rondônia,RO,Norte,4923
+2022,Distrito Federal,DF,Centro-Oeste,3676
+2023,Mato Grosso,MT,Centro-Oeste,5022383
+2023,Bahia,BA,Nordeste,1838806
+2023,Goiás,GO,Centro-Oeste,878807
+2023,Mato Grosso do Sul,MS,Centro-Oeste,739938
+2023,Maranhão,MA,Nordeste,368756
+2023,Piauí,PI,Nordeste,303459
+2023,Ceará,CE,Nordeste,294133
+2023,Minas Gerais,MG,Sudeste,189076
+2023,São Paulo,SP,Sudeste,131956
+2023,Paraná,PR,Sul,84984
+2023,Tocantins,TO,Norte,68482
+2023,Pará,PA,Norte,45177
+2023,Alagoas,AL,Nordeste,31835
+2023,Paraíba,PB,Nordeste,26286
+2023,Rio Grande do Norte,RN,Nordeste,16566
+2023,Pernambuco,PE,Nordeste,15044
+2023,Sergipe,SE,Nordeste,8931
+2023,Rondônia,RO,Norte,4817
+2023,Distrito Federal,DF,Centro-Oeste,3061
+2024,Mato Grosso,MT,Centro-Oeste,4458287
+2024,Bahia,BA,Nordeste,2371219
+2024,Goiás,GO,Centro-Oeste,800310
+2024,Mato Grosso do Sul,MS,Centro-Oeste,839890
+2024,Maranhão,MA,Nordeste,491816
+2024,Piauí,PI,Nordeste,303799
+2024,Ceará,CE,Nordeste,241816
+2024,Minas Gerais,MG,Sudeste,171612
+2024,São Paulo,SP,Sudeste,143126
+2024,Paraná,PR,Sul,110984
+2024,Tocantins,TO,Norte,75150
+2024,Pará,PA,Norte,50827
+2024,Alagoas,AL,Nordeste,35645
+2024,Paraíba,PB,Nordeste,27734
+2024,Rio Grande do Norte,RN,Nordeste,13641
+2024,Pernambuco,PE,Nordeste,9929
+2024,Sergipe,SE,Nordeste,8003
+2024,Rondônia,RO,Norte,5365
+2024,Distrito Federal,DF,Centro-Oeste,2941

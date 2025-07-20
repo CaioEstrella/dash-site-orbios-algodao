@@ -1,4 +1,18 @@
-# 🌱 Dashboard Produção de Algodão - Brasil
+# Criar arquivo requirements.txt
+requirements = '''dash==2.14.1
+plotly==5.17.0
+pandas==2.1.1
+dash-bootstrap-components==1.5.0
+dash-bootstrap-templates==1.1.2
+'''
+
+with open('requirements.txt', 'w') as f:
+    f.write(requirements)
+
+print("✅ Arquivo requirements.txt criado!")
+
+# Criar arquivo README.md
+readme = '''# 🌱 Dashboard Produção de Algodão - Brasil
 
 Dashboard interativo desenvolvido em Python com Plotly Dash para análise da produção histórica de algodão no Brasil por estados e regiões.
 
@@ -163,3 +177,22 @@ Para dúvidas ou sugestões sobre este dashboard, entre em contato ou abra uma i
 ---
 
 Desenvolvido com ❤️ usando Python e Plotly Dash
+'''
+
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write(readme)
+
+print("✅ Arquivo README.md criado!")
+
+print("\n🎉 Projeto completo criado com sucesso!")
+print("\n📁 Arquivos finais:")
+print("   - app.py (aplicação principal)")
+print("   - dados_algodao.csv (dados de produção)")
+print("   - brasil_estados_poligonos.geojson (mapa dos estados)")
+print("   - requirements.txt (dependências)")
+print("   - README.md (documentação)")
+
+print("\n🚀 Para executar:")
+print("   1. pip install -r requirements.txt")
+print("   2. python app.py")
+print("   3. Acesse http://localhost:8050")
